@@ -1,24 +1,9 @@
-# README
+# Members-only
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a (TheOdinProject)[https://www.theodinproject.com/lessons/ruby-on-rails-members-only].
 
-Things you may want to cover:
+## Lesson goals
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Create user model though (devise gem)[https://github.com/heartcombo/devise].
+* User authentication
+* User authorization
